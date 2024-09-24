@@ -1,1 +1,2 @@
 # -Coronavirus-Tweets-NLP---Sentiment-Analysis-and-Text-Classification-
+This project involves performing text classification on coronavirus-related tweets, which have been manually tagged. The data includes columns for location, tweet date, original tweet, and sentiment label. Naive Bayes was applied after preprocessing and cleaning, achieving 85% AUC test performance and 90% AUC train performance.
